@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main ()
+{
+	int array[100];
+	int i=0, j=0 ;
+	while(i<100)
+	{
+		if(j%2==0)
+		{
+			array[i]=j;
+			i++;
+		
+		}
+		j++;
+	}
+	for(j=0;j<100;j++)
+	{
+		printf("%d ",array[j]);
+	}
+	
+	return 0;	
+}
