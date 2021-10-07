@@ -1,2 +1,2 @@
-# C-Programs
-Tracking my C language learning, through coding problems in C
+# C-Programming
+Tracking my C language learning through coding problems in C
